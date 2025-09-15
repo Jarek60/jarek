@@ -1,4 +1,4 @@
-homework1.py
+#homework1.py
  # --- Variables and Datatypes ---
 
 a = 10
@@ -60,3 +60,26 @@ print(type(m)) # m is a float, 1*10^4 so scientific notation
 4. 1 wasn't an integer because it wasn't alone, it was either multiplied with somenthing, in a list with other things, in a function or a decimal point. str() converts the data into a string. 1 was a float.
 5. A range, an immutable seuence of numbers.
 """
+
+print(10 > 9) # True, 10 is greater than 9
+print(10 == 9) # False, 9 isnt equal to 10
+print(10 <= 9) # False, 10 is not less than or equal to 9
+bool("abc")
+bool(123)
+bool(["apple","cherry", "banana"])
+bool(True)
+bool(False)
+bool(0)
+bool("")
+bool(" ")
+bool(())
+bool([])
+bool({})
+bool(True and False)
+bool(True and True)
+bool(False and False)
+bool(True or False)
+bool(True or True)
+bool(False or False)
+bool(not(False))
+bool(not(True))
