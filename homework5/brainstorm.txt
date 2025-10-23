@@ -1,0 +1,16 @@
+1. List 5 topics related to astronomy, physics, technology, science or math that sound interesting
+to you.
+    Exoplanets, Dwarf stars, Neutrino detection, data analysis, fusion
+2. For three of these topics, find a dataset, tool, news article, or paper online that relates to it.
+Summarize how each source relates to the topic in your own words.
+    https://openexoplanetcatalogue.com/?utm_source=chatgpt.com Is an open catalog that gives data on exoplanets and uses github. It gives info on the exoplanet and there close by stars.
+    https://link.springer.com/article/10.1007/s40042-021-00106-1?utm_source=chatgpt.com Goes over how neutrino telescopes work and the progress made in the neutrino detections over the last decade.
+    https://www-nds.iaea.org/fendl/ Is a open catalgo that allows to use github to get the data relevant to fusion devices including cross sections and reaction data.
+3. Choose one topic and brainstorm how you could Python skills (loops, conditionals, functions,
+lists/dictionaries, github, version control) to explore, analyze or create something with it.
+    I could use the Python skills to order the exoplanets in terms of most like Earth, in terms of comparing their size atmosphere, distance from their star, and other thigns of the sort.
+4. Write down at least two possible project ideas connected to your topic. One should be
+ambitious (a “dream” version) and the other should be smaller, simpler version that you
+could realistically finish in a few weeks.
+    One project idea is the rannking the exoplanets by closest to the conditions on Earth, to see which are most viable for life. Could also graph the planets as points with their similarities to earth being what is used to plot and use an almost residual like graph to see how far off the top 25 or so exoplanets are from Earth.
+    Another project is graphing two features of the exoplanets to see how one affects the other and try to come up with a sort of observation or hypothesis based on if there is correlation between two features of the exoplanets.
